@@ -1,0 +1,4 @@
+22:12:18.158 [main] INFO  stepDefinitions.stepDefs_login - Driver initialized; Browser launched
+22:12:18.252 [main] INFO  stepDefinitions.stepDefs_login - User name Entered
+22:12:18.294 [main] INFO  stepDefinitions.stepDefs_login - Password entered
+22:12:18.844 [main] INFO  stepDefinitions.stepDefs_login - Clicked on login button
